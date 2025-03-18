@@ -1,2 +1,4 @@
 # ROCKCHIPLinux-Upgrade-GUI-for-limux
 基于瑞芯微官方Upgrade_tool实现的图形化工具
+我只打包了适用于debian发行版的安装包，其他版本请自行打包或者直接使用
+python3 RKUpgradeTool.py
